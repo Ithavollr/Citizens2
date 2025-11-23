@@ -7,6 +7,16 @@ Compatible with:
 * Minecraft (for specific compatible version information, see https://wiki.citizensnpcs.co/Versions for info)
 * CitizensAPI (for compiling purposes only)
 
+Setup
+=================
+1. `java -jar BuildTools.jar --rev 1.21.4 --remapped`
+2. Reload all Maven Projects
+3. Maven -> `clean`
+4. Maven -> `install`
+5. Maven -> `package`
+
+Final jar file will be under v1_21_R3/target dir.
+
 Extra information
 =================
 
