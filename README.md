@@ -9,7 +9,8 @@ Compatible with:
 
 Setup
 =================
-1. `java -jar BuildTools.jar --rev 1.21.4 --remapped`
+1. Download if not present already: https://www.spigotmc.org/wiki/buildtools/
+2. `java -jar BuildTools.jar --rev 1.21.4 --remapped`
 2. Reload all Maven Projects
 3. Maven -> `clean`
 4. Maven -> `install`
