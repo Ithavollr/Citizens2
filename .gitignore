@@ -12,3 +12,13 @@ dependency-reduced-pom.xml
 *.jardesc
 *.lnk
 *.bbmodel
+
+# NMS files
+BuildData/
+BuildTools.log.txt
+Bukkit/
+CraftBukkit/
+Spigot/
+apache-maven-3.9.6/
+work/
+spigot-1.21.4.jar
